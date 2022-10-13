@@ -1,2 +1,4 @@
-package com.company.professions;public class Person {
+package com.company.professions;
+
+public class Person {
 }
