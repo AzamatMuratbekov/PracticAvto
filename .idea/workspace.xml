@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="035d53e7-ad2d-462f-8aed-48ad83c94307" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticAvto.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/details/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/professions/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/professions/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/vehiches/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/vehiches/Lorry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/vehiches/SportCar.java" afterDir="false" />
+    <list default="true" id="035d53e7-ad2d-462f-8aed-48ad83c94307" name="Changes" comment="i">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +36,11 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.company.professions" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,6 +50,14 @@
       <option name="presentableId" value="Default" />
       <updated>1665516066242</updated>
     </task>
+    <task id="LOCAL-00001" summary="i">
+      <created>1665689040498</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665689040498</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -68,5 +70,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="i" />
+    <option name="LAST_COMMIT_MESSAGE" value="i" />
   </component>
 </project>
